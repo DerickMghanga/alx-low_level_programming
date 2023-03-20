@@ -1,8 +1,9 @@
 #include <stdio.h>
-/*
-*main - main entry point
-*return: always 0 (Good)
-*/
+/**
+ *main - Entry point
+ *Description: 'Prints exactly as text'
+ *return: always 0 (Good)
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
