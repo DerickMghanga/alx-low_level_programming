@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
  *main - Entry point
- *Description: 'Prints exactly as text'
- *return: always 0 (Good)
+ *Description: Prints exactly as text
+ *Return: Always 0(succesful)
  */
 int main(void)
 {
